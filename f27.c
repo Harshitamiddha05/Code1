@@ -3,8 +3,8 @@
 #include<string.h>
 int main()
 {
-char s[100],f=0;
-int l=0,i=0,c=0;
+char s[100];
+int l=0,i=0,c=0,f=0;
 printf("Enter a string: ");
 fgets(s,100,stdin);
 l=strlen(s);
