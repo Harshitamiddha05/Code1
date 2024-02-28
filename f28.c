@@ -1,3 +1,4 @@
+/* write a c program to insert elements in 2d array and sort this 2d array in ascending order by passing array as an argument in function*/
 #include <stdio.h>
 void sort(int arr[3][3])
 {
