@@ -1,3 +1,4 @@
+/*write a c program to insert multiple statements or words in the character array and display the content of the string along the count of number of words present*/
 #include <stdio.h>
 #include <string.h>
 int main()
