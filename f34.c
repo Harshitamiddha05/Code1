@@ -12,10 +12,10 @@ printf("input 2nd string:");
 fgets(str1,100,stdin);
 printf("\n");
 l=strlen(str);
-/*if(str[l-1]=='\n')
+if(str[l-1]=='\n')
 {
 str[l-1]='\0';
-}*/
+}
 l1=strlen(str1);
 if(str1[l1-1]=='\n')
 {
